@@ -166,5 +166,7 @@ Then take it one step further. Create an open API that works with a user's custo
 2015-06-03---git-it-on! bang-a-gong
 happy birthday pfosIX =)
 
+2015-06-04---14:00ish
 gittin' myIDEaas upto speed (work)flow 
 bash-it git docker rethinkDB sublimeText @diigo plugIN-pl@y-lists lifewheelz ecoNexusPlexus pfosix hyperIOsphere @21days-devUPz @180days-fossON!
+nextUPz :: vagrant -> cloudFoundry local/remote dev/prod sync
