@@ -163,5 +163,5 @@ Then take it one step further. Create an open API that works with a user's custo
 
  2015-05-27---21:13 [hyperIOsphere]:: hypersphere.io :: IO is OUR middle(ware) DOMAIN-name-space
 
-
- 2015-06-03---gitn-it-on! bang-a-gong
+2015-06-03---git-it-on! bang-a-gong
+happy birthday pfosIX =)
