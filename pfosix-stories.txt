@@ -170,3 +170,8 @@ happy birthday pfosIX =)
 gittin' myIDEaas upto speed (work)flow 
 bash-it git docker rethinkDB sublimeText @diigo plugIN-pl@y-lists lifewheelz ecoNexusPlexus pfosix hyperIOsphere @21days-devUPz @180days-fossON!
 nextUPz :: vagrant -> cloudFoundry local/remote dev/prod sync
+
+2015-06-11---11:22 :: &t=120 youtube time-clip
+https://www.youtube.com/embed/omASiF85JzI?start=144&end=177
+:: start&end :: embed
+end of line =)
