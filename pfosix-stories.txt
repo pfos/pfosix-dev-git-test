@@ -2,43 +2,43 @@ Software development, business and the internet (web specifically) are all opera
 
 The Free & Open Source Software cultural model moves closer to innovating based on community (n)itches.
 
-if computers are supposed to be for solving problems - what problems are "actually" being solved? 
+if computers are supposed to be for solving problems - what problems are "actually" being solved?
 
-After 60+ years and untold man hours of computer "development" what we do see is a rapidly increasing divide between haves/nots in both scale and velocity. 
+After 60+ years and untold man hours of computer "development" what we do see is a rapidly increasing divide between haves/nots in both scale and velocity.
 
-consumer/producer seperation results in variying degrees of polarization 
+consumer/producer seperation results in variying degrees of polarization
 
 A more sane approach is to build simple services based on what naturally resonates with us in the first place - then share/offer those services.
 
 A user centric point of view is the primary core shift that is needed for this model to flourish.
 
-for example: in YouTube, my watchLater playlist generally contains at least a few hundred and at times close to a thousand "offers" for my time and attention. 
+for example: in YouTube, my watchLater playlist generally contains at least a few hundred and at times close to a thousand "offers" for my time and attention.
 
-When I'm doing certain functions such as deep research, coding, writing, etc.; a certain flow-state environment is desired, which for me includes certain types of music playing in the background. 
+When I'm doing certain functions such as deep research, coding, writing, etc.; a certain flow-state environment is desired, which for me includes certain types of music playing in the background.
 
 I should be able to "inform" youtube's api of my preference based on well defined & self-learning paramaters from my past historical interactions. [epicLogue]
 
-I would then be able to process items in my watchList while I am creating in my flowState. 
+I would then be able to process items in my watchList while I am creating in my flowState.
 
 It's this "STATE" [epicLogue] that youTube or any data provider SHOULD be interested in. Not by forcing, guessing or building big
-datAI to try and figure me out (what I want/prefer). 
+datAI to try and figure me out (what I want/prefer).
 
 Rather, another way of doing it would be for me to provide an api and access priveleges that specify what I am looking for. Imagine if each unique system was looking for best match queries based on user params. Trusted host servers could keep in sync with user prefs and put together better offers - push or pull. It's learning about us. We're learning about us. What we produce would come from real-time data which translates to real-world problems/needs/desires to be met directly and personally. One size does not fit all. MassMEdia babbleONION CONsumer programmed "thinking" is replaced by grassMEdia hyperLocal townSquareROOT mindset. uBErUSErd centric yoUNIserver (reversInYOU) respond with highly resonant offers to client yoUserVICE_playWISHlistd requests. [epicLogue]
 
-::keyConnectorZ lifeWheelz ecoNexusPlexus 
+::keyConnectorZ lifeWheelz ecoNexusPlexus
 ::loveNthx2U metaTron & drEmoto :: respect
 
 another youTubeism. I have over 200 playlists of which I am actively curating over 100 at any given time. I used to be able to sort them based on my preference (alpha-ascending) It was simple for me to add special sort characters to the beginning of the playlist name. This enabled me to quickly identify the lists I needed. I could basiclly use muscle memory to find the right lists to add media to. Even better would be that google could implement an algo that does it for me based on the 25,000+ times I've given my prefs to the system. I could simply look at the choices it made and then teach it further by editing if necessary.
 
-Instead, what Youtube engineers or whoever decides these things did (without any notice or preedback from the user community) is change it so that I now have only one sort order preference - THEIRS! Good job on that one BOOtube. 
+Instead, what Youtube engineers or whoever decides these things did (without any notice or preedback from the user community) is change it so that I now have only one sort order preference - THEIRS! Good job on that one BOOtube.
 
-It now takes me at least 2 or 3 times longer to do the same task. And adds a noticable amount of body stress & frustration that I did not experience previously. 
+It now takes me at least 2 or 3 times longer to do the same task. And adds a noticable amount of body stress & frustration that I did not experience previously.
 
 It's as if it was done intentionally to cause these effects. Like, when they designed the analog typewriter keyboard to be slow and difficult for the user who could type faster than mechanical keys would allow.
 
  Then when we had superfast electric typewriters that didn't jam, did we upgrade the user interface to take advantage of the machine and user potential? NO, we taught everyone and still do how to use the broken way. Which we just passed right along to the digital/networked "typewriters" we have today.
 
-  Or some new interface update will be rolled out. or the next policy update. Click here to say you read and agree with all this incomprehensible legal mumbo. It's not just youtube i'm picking on here. This problem is bigger than Youtube's design team or even their parent company Google. Hell, it's bigger than the internet. 
+  Or some new interface update will be rolled out. or the next policy update. Click here to say you read and agree with all this incomprehensible legal mumbo. It's not just youtube i'm picking on here. This problem is bigger than Youtube's design team or even their parent company Google. Hell, it's bigger than the internet.
 
   This goes much deeper than a few of the big players. When you really sit down and think about it the whole system or "way we currently do life" is pathogenic (Originating or producing disease) by design.
 
@@ -66,7 +66,7 @@ our ieyes are the portal/porthologram to the soul
 facebook_lostRtrust -5 souledUSout
 pfosix lifeWheelz_vUserCenterZd ecoNexUS git :: user-agent :: userCentrIX_userCentrID :: time to redefine ::
 #octopi_ourHeartCenter  echo::loveNthx2water eco=eartHearthOMe
-4mind-emotoION heartCenterZd ecoPlexUS gitHub 
+4mind-emotoION heartCenterZd ecoPlexUS gitHub
 
 pfosixDemoVideo :: tycho_dye, longview_can't explain
 
@@ -94,25 +94,25 @@ fossElements=domObjects (groupObjects function) common core asynchronous micro-s
 ::2014-10-16
 userCentrIX (user-centric interface design pattern) Enterprise->centerPrize::
 
-::2014-10-17- ::pfosix::   
+::2014-10-17- ::pfosix::
 periodic table of the FOSSelements
 ->identify universal model keyCorElz (open api standards, designPattern bestPractices, community org/proj and map to periodic table of fossElements - identify related group(properties/config/features) and period(language/logic/function) context, container, component, clone, (RESTful)conSTrATE
 
-::2014-10-19 
+::2014-10-19
 yoUniversalUndo yoUndo you-undo
 [epicLogue]
 
 plugINplAPI plug-in_api plug-in-play-api
 model components modularized
 user accessible real-time hot swap plug-in-play-lists
- 
+
  ::2014-10-20
  primary overarching client/server communication interaction methods
 
- ?interogative/.declarative 
+ ?interogative/.declarative
  (question/answer) [get/put]
- relaxed exchange 
- flow-state  
+ relaxed exchange
+ flow-state
  flexible_dataResponse (yaml,xml,etc.)
  REST
  free/open/standard
@@ -121,22 +121,22 @@ user accessible real-time hot swap plug-in-play-lists
 
  !exclamatory/@imparative/
  (priority/command) [delete/post]
- urgent directive  
- control-state  
- fixed_dataResponse (XML) 
+ urgent directive
+ control-state
+ fixed_dataResponse (XML)
  SOAP, CORBA, etc.
  arrest/close/specification
  formal tense hot
  internalFacing (private-commons)
 
 ::2014-10-22
-[McODEL_archiText.raml->URREB] 
-model-generated-code-archistructure (raml file) 
-universal-resource-runtime-environment-blueprint 
+[McODEL_archiText.raml->URREB]
+model-generated-code-archistructure (raml file)
+universal-resource-runtime-environment-blueprint
 archiStructure=code
 
 [PERserverINS(tance)]
-tokenizer_lexer_parser->INdexTree 
+tokenizer_lexer_parser->INdexTree
 PERserverINS(treme)
 hyperINdexed <-> persistant-MEMorIOn-gateway <-> memeXtreeM
 [epicLogue]
@@ -144,11 +144,11 @@ zer0pointSearch
 sorting algorithm webdev-CORE ::syllabus ::current pfosix key nautilus spiral zeropoint search  12leveragePoints cybernetix learning change state flow stream life growth recursive feedback loop paradigm switcher
 
 ::2014-10-26 ::index.html
-hello NUworld 
+hello NUworld
 
 ::2014-10-31::@ @t @ction @rchiStructure @gent @lpha @rtchive @sk @dzValUe @ccess@ble @bstract @i @ok
 
-::2014-11-11:: 
+::2014-11-11::
 layer8 GLaaS guiLayer-as-a-serv(er)ice single-pane-of-glass $uperUser portal window view dashboard appMashUpIX hyperLocalMEdia interface fossUMA userManagementAnalytics
 
 multi-tendency
@@ -158,7 +158,7 @@ multi-tendency
 Then take it one step further. Create an open API that works with a user's customized design template. UX management would then be given to the users who would know best how to tailor their preferred experience, look and feel. In the long run everyone wins, because a customized consistency develops across packages and even platforms. It might work something like how auto-fill handles common user data like name, address, etc.
 
 2015.0404
- 
+
  one of these days the user will be able to mix the audio tracks to their own liking.
 
  2015-05-27---21:13 [hyperIOsphere]:: hypersphere.io :: IO is OUR middle(ware) DOMAIN-name-space
@@ -167,7 +167,7 @@ Then take it one step further. Create an open API that works with a user's custo
 happy birthday pfosIX =)
 
 2015-06-04---14:00ish
-gittin' myIDEaas upto speed (work)flow 
+gittin' myIDEaas upto speed (work)flow
 bash-it git docker rethinkDB sublimeText @diigo plugIN-pl@y-lists lifewheelz ecoNexusPlexus pfosix hyperIOsphere @21days-devUPz @180days-fossON!
 nextUPz :: vagrant -> cloudFoundry local/remote dev/prod sync
 
@@ -175,3 +175,11 @@ nextUPz :: vagrant -> cloudFoundry local/remote dev/prod sync
 https://www.youtube.com/embed/omASiF85JzI?start=144&end=177
 :: start&end :: embed
 end of line =)
+
+2015-11-08--ok, now let's put some stankov on IT! =)
+stankov's-universeALLawe-model
+space-time-energy is in a state of constant convers[IOn]ation towards harmony & balance centered in loveFlow
+
+2015-11-09---11:01 :: imagineNAT.io(n)
+loosely coupled p2p/h2h virtual time-space/energy federation
+ipfs/ipns replaces dns
